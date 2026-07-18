@@ -1,22 +1,9 @@
 # Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
 
 <p align="center">
-  <svg viewBox="0 0 1200 400" width="100%" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <clipPath id="roundedCorner">
-        <rect x="0" y="0" width="1200" height="400" rx="30" ry="30" />
-      </clipPath>
-    </defs>
-    
-    <!-- Background fallback biar gak putih polos pas loading, jing -->
-    <rect x="0" y="0" width="1200" height="400" rx="30" ry="30" fill="#0d1117" />
-    
-    <!-- Image lu yang udah di-clip rapi -->
-    <image width="1200" height="400" href="https://zhyllanfyllah.pages.dev/assets/bg.jpg" clip-path="url(#roundedCorner)" preserveAspectRatio="xMidYMid slice" />
-    
-    <!-- Stroke tipis biar cornernya makin tajem, rapi, dan premium, bre -->
-    <rect x="0" y="0" width="1200" height="400" rx="30" ry="30" fill="none" stroke="#30363d" stroke-width="4" />
-  </svg>
+<p align="center">
+  <img src="https://zhyllanfyllah.pages.dev/assets/bg.jpg" width="100%" style="border-radius: 30px;" alt="Banner" />
+</p>
 </p>
 
 <p align="left">
