@@ -35,21 +35,13 @@
 
 ### 📊 GitHub Analytics & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jirankun&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Jirankun's Trophies" width="100%" />
-</p>
+![Jirankun's Trophies](https://github-profile-trophy.vercel.app/?username=jirankun&theme=tokyonight&column=3&margin-w=15&margin-h=15)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jirankun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
-</p>
+![Jirankun's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jirankun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirankun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jirankun&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirankun&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" width="100%" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jirankun&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
 
 ---
 
