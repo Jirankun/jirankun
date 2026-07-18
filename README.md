@@ -68,9 +68,10 @@
 
 <p align="left">
   <a href="https://instagram.com/jirankun" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+
   <a href="https://instagram.com/jirankun_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram_Dev-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Developer" />
+    <img src="https://img.shields.io/badge/Instagram_Dev-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Developer"/>
   </a>
 </p>
