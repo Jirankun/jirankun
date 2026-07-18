@@ -1,9 +1,6 @@
 # Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
-
-<p align="center">
 <p align="center">
   <img src="https://zhyllanfyllah.pages.dev/assets/bg.jpg" width="100%" style="border-radius: 30px;" alt="Banner" />
-</p>
 </p>
 
 <p align="left">
