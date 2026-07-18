@@ -1,5 +1,9 @@
 # Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Space&theme=tokyonight&fontSize=40&animation=fadeIn" width="100%" alt="Header Banner" />
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jirankun&color=41b883&style=flat&label=Profile+Views" alt="Profile Views" />
   <a href="https://github.com/jirankun">
