@@ -1,12 +1,10 @@
 # Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
 
 <p align="center">
-  <svg viewBox="0 0 1200 400" width="100%" xmlns="http://www.w3.org/2000/svg">
     <clipPath id="rectView">
       <rect x="0" y="0" width="1200" height="400" rx="25" ry="25" />
     </clipPath>
     <image width="1200" height="400" href="https://zhyllanfyllah.pages.dev/assets/bg.jpg" clip-path="url(#rectView)" preserveAspectRatio="xMidYMid slice" />
-  </svg>
 </p>
 
 <p align="left">
