@@ -1,7 +1,12 @@
 # Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
 
 <p align="center">
-  <img src="https://zhyllanfyllah.pages.dev/assets/bg.jpg" width="100%" alt="Jirankun's Header Banner" />
+  <svg viewBox="0 0 1200 400" width="100%" xmlns="http://www.w3.org/2000/svg">
+    <clipPath id="rectView">
+      <rect x="0" y="0" width="1200" height="400" rx="25" ry="25" />
+    </clipPath>
+    <image width="1200" height="400" href="https://zhyllanfyllah.pages.dev/assets/bg.jpg" clip-path="url(#rectView)" preserveAspectRatio="xMidYMid slice" />
+  </svg>
 </p>
 
 <p align="left">
@@ -9,6 +14,8 @@
   <a href="https://github.com/jirankun">
     <img src="https://img.shields.io/github/followers/jirankun?label=Followers&style=flat&color=238636" alt="Followers" />
   </a>
+  <img src="https://img.shields.io/github/stars/jirankun?style=flat&color=dfb317&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/repo-size/jirankun/jirankun?style=flat&color=007ec6&label=Repo+Size" alt="Repo Size" />
 </p>
 
 🚀 **Student at SMKN 1 Lembah Melintang | Major in Computer and Network Engineering (TKJ)**
