@@ -33,10 +33,18 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jirankun&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Jirankun's Trophies" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jirankun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirankun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 <p align="center">
@@ -48,7 +56,10 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/jirankun">
+  <a href="https://instagram.com/jirankun" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://instagram.com/jirankun_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram_Dev-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Developer" />
   </a>
 </p>
