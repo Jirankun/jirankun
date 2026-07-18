@@ -1,14 +1,10 @@
 # Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jirankun&color=41b883&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <a href="https://github.com/Jirankun"><img src="https://img.shields.io/github/followers/Jirankun?label=Followers&style=flat-square&color=238636" alt="Followers" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Jirankun&color=41b883&style=flat-square&label=Profile+Views)
+[![Followers](https://img.shields.io/github/followers/Jirankun?label=Followers&style=flat-square&color=238636)](https://github.com/Jirankun)
 
-<p align="center">
-  <strong>🚀 Student at SMKN 1 Lembah Melintang | Major in Computer and Network Engineering (TKJ)</strong><br>
-  <em>Passionate about Web & Mobile Development, Open-Source Enthusiast, and a proud Linux Mint user.</em>
-</p>
+🚀 **Student at SMKN 1 Lembah Melintang | Major in Computer and Network Engineering (TKJ)**
+*Passionate about Web & Mobile Development, Open-Source Enthusiast, and a proud Linux Mint user.*
 
 ---
 
@@ -23,85 +19,27 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle" />
-      <br>Gradle
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux Mint" />
-      <br>Linux Mint
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+**Web Development:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Mobile & Environment:** ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87A556?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics & Info
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jirankun&show_icons=true&theme=tokyonight&count_private=true" alt="Jirankun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirankun&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+![Jirankun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jirankun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jirankun&theme=tokyonight" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
-### 🎯 Current Learning Goals
-- [ ] Deep diving into **Next.js** advanced state management & SSR architectures.
-- [ ] Mastering multiplatform capabilities with **Flutter**.
-- [ ] Leveling up native Android logic using advanced **Kotlin** APIs.
-- [ ] Actively contributing to meaningful open-source software (OSS).
+![Jirankun's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jirankun&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
 
 ---
 
 ### 🤝 Connect With Me
-<p align="left">
-  <a href="https://instagram.com/jirankun_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <i>"Talk is cheap. Show me the code." – Linus Torvalds</i>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jirankun)
