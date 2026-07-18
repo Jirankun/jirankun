@@ -1,7 +1,7 @@
 # Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Space&theme=tokyonight&fontSize=40&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://zhyllanfyllah.pages.dev/assets/bg.jpg" width="100%" alt="Jirankun's Header Banner" />
 </p>
 
 <p align="left">
