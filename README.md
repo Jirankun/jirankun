@@ -65,6 +65,8 @@
 
 ### 🤝 Connect With Me
 
+Open to collaboration! Feel free to contact me or explore my socials. Ready to help and contribute to your projects😊
+
 <p align="left">
   <a href="https://instagram.com/jirankun" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
