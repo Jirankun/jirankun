@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2Cmy+name+ZHYLLAN+FYLLAH+(Jirankun)+%F0%9F%91%8B)](https://git.io/typing-svg)
 # Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
 <p align="center">
   <img src="https://zhyllanfyllah.pages.dev/assets/bg.jpg" width="100%" style="border-radius: 30px;" alt="Banner" />
