@@ -9,8 +9,6 @@
   <a href="https://github.com/jirankun">
     <img src="https://img.shields.io/github/followers/jirankun?label=Followers&style=flat&color=238636" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/jirankun?style=flat&color=dfb317&label=Stars" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/repo-size/jirankun/jirankun?style=flat&color=007ec6&label=Repo+Size" alt="Repo Size" />
 </p>
 
 🚀 **Student at SMKN 1 Lembah Melintang | Major in Computer and Network Engineering (TKJ)**
