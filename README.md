@@ -74,6 +74,6 @@
     <img src="https://img.shields.io/badge/Instagram_Dev-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Developer"/>
     
   <a href="https://x.com/jirankun_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-E4405F?style=flat&logo=X&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" alt="X"/>
   </a>
 </p>
