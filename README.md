@@ -1,4 +1,3 @@
-
 # Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
 <p align="center">
   <img src="https://zhyllanfyllah.pages.dev/assets/bg.jpg" width="100%" style="border-radius: 30px;" alt="Banner" />
@@ -46,13 +45,13 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jirankun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jirankun&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jirankun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirankun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 <br />
@@ -74,6 +73,7 @@ Open to collaboration! Feel free to contact me or explore my socials. Ready to h
 
   <a href="https://instagram.com/jirankun_dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram_Dev-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Developer"/>
+  </a>
     
   <a href="https://x.com/jirankun_dev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" alt="X"/>
