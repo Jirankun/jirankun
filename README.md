@@ -39,7 +39,7 @@
 ### 📊 GitHub Analytics & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jirankun&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="Jirankun's Trophies" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=jirankun&theme=tokyonight&margin-w=15&margin-h=15" alt="Jirankun's Trophies" width="100%" />
 </p>
 
 <br />
