@@ -39,7 +39,7 @@
 ### 📊 GitHub Analytics & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jirankun&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Jirankun's Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jirankun&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="Jirankun's Trophies" width="100%" />
 </p>
 
 <br />
@@ -51,7 +51,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=jirankun&theme=tokyonight" alt="Top Languages" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jirankun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
 </p>
 
 <br />
