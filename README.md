@@ -74,7 +74,7 @@ Open to collaboration! Feel free to contact me or explore my socials. Ready to h
     <img src="https://img.shields.io/badge/Instagram_Dev-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Developer"/>
   </a>
 
-[![Global Rank](https://committers.top)](https://committers.top)
+![Statistik GitHub Jirankun](https://vercel.app)
 
     
   <a href="https://x.com/jirankun_dev" target="_blank">
