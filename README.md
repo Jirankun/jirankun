@@ -46,10 +46,7 @@
 
 <br />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jirankun&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%" />
-</p>
-
+![](https://streak-stats.demolab.com/?user=Jirankun&theme=tokyonight&hide_border=false)<br/>
 <br />
 
 <p align="center">
