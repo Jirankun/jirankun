@@ -43,18 +43,13 @@
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=jirankun&theme=tokyonight&margin-w=15&margin-h=15" alt="Jirankun's Trophies" width="100%" />
 </p>
-
 <br />
-
 ![](https://streak-stats.demolab.com/?user=Jirankun&theme=tokyonight&hide_border=false)<br/>
 <br />
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jirankun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
 </p>
-
 <br />
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirankun&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" width="100%" />
 </p>
