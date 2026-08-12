@@ -40,12 +40,12 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=Jirankun&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+![](https://streak-stats.demolab.com/?user=Jirankun&theme=tokyonight&hide_border=false)<br/>
+
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=jirankun&theme=tokyonight&margin-w=15&margin-h=15" alt="Jirankun's Trophies" width="100%" />
 </p>
 <br />
-
-![](https://streak-stats.demolab.com/?user=Jirankun&theme=tokyonight&hide_border=false)<br/>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jirankun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
