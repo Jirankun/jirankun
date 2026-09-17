@@ -38,23 +38,7 @@
 
 ### 📊 GitHub Analytics & Trophies
 
-![](https://github-readme-stats.shion.dev/api?username=Jirankun&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=Jirankun&theme=tokyonight&hide_border=false)<br/>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=jirankun&theme=tokyonight&margin-w=15&margin-h=15" alt="Jirankun's Trophies" width="100%" />
-</p>
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jirankun&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-</p>
-<br />
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirankun&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" width="100%" />
-</p>
+![My GitHub Stats](https://yourinsights.vercel.app/api/insight?username=Jirankun&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=Text,MDX,Astro)
 
 ---
 
