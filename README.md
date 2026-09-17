@@ -1,15 +1,7 @@
-# Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
-
-<table>
-  <tr>
-    <td width="60%" valign="middle">
-      <img src="https://zhyllanfyllah.my.id/assets/bg.jpg" width="100%" style="border-radius: 30px;" alt="Banner" />
-    </td>
-    <td width="40%" valign="middle" align="right">
-      <img src="https://zhyllanfyllah.my.id/assets/profile.jpg" width="100%" style="border-radius: 20px;" alt="Profile" />
-    </td>
-  </tr>
-</table>
+# Hi there👋
+<p align="center">
+  <img src="https://zhyllanfyllah.my.id/assets/banner-c.png" width="100%" style="border-radius: 30px;" alt="Banner" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jirankun&color=41b883&style=flat&label=Profile+Views" alt="Profile Views" />
@@ -20,8 +12,6 @@
 
 🚀 **Student at SMKN 1 Lembah Melintang | Major in Computer and Network Engineering (TKJ)**
 *Passionate about Web & Mobile Development, Open-Source Enthusiast, and a proud Linux Mint user.*
-
----
 
 ### 💫 About Me
 - 👨‍💻 **Current Focus:** Crafting clean interfaces and exploring mobile development ecosystem.
@@ -49,6 +39,7 @@
 <div align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=Jirankun&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=Text,MDX,Astro" alt="My GitHub Stats" />
 </div>
+
 ---
 
 ### 🤝 Connect With Me
@@ -56,20 +47,15 @@
 Open to collaboration! Feel free to contact me or explore my socials. Ready to help and contribute to your projects😊
 
 <p align="left">
-  <a href="https://instagram.com/jirankun" target="_blank">
+  <a href="https://instagram.com/zhyllan_fyllah" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
-  <a href="https://instagram.com/jirankun_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram_Dev-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Developer"/>
-  </a>
-    
   <a href="https://x.com/jirankun_dev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" alt="X"/>
   </a>
 
   <a href="https://coffe.zhyllanfyllah.my.id" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
 </p>
