@@ -47,7 +47,7 @@
 Open to collaboration! Feel free to contact me or explore my socials. Ready to help and contribute to your projects😊
 
 <p align="left">
-  <a href="https://instagram.com/zhyllan_fyllah" target="_blank">
+  <a href="https://instagram.com/jirankun_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
@@ -56,6 +56,6 @@ Open to collaboration! Feel free to contact me or explore my socials. Ready to h
   </a>
 
   <a href="https://coffe.zhyllanfyllah.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </p>
