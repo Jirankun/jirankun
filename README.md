@@ -38,8 +38,9 @@
 
 ### 📊 GitHub Analytics & Trophies
 
-![My GitHub Stats](https://yourinsights.vercel.app/api/insight?username=Jirankun&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=Text,MDX,Astro)
-
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Jirankun&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&hide_langs=Text,MDX,Astro" alt="My GitHub Stats" />
+</div>
 ---
 
 ### 🤝 Connect With Me
