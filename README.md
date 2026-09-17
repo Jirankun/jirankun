@@ -1,7 +1,15 @@
 # Hi there, I'm Zhyllan Fyllah (Jirankun)! 👋
-<p align="center">
-  <img src="https://zhyllanfyllah.pages.dev/assets/bg.jpg" width="100%" style="border-radius: 30px;" alt="Banner" />
-</p>
+
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <img src="https://zhyllanfyllah.my.id/assets/bg.jpg" width="100%" style="border-radius: 30px;" alt="Banner" />
+    </td>
+    <td width="40%" valign="middle" align="right">
+      <img src="https://zhyllanfyllah.my.id/assets/profile.jpg" width="100%" style="border-radius: 20px;" alt="Profile" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jirankun&color=41b883&style=flat&label=Profile+Views" alt="Profile Views" />
