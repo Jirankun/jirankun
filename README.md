@@ -1,6 +1,6 @@
 # Hi there👋
 <p align="center">
-  <img src="https://zhyllanfyllah.my.id/assets/banner-c.png" width="100%" style="border-radius: 30px;" alt="Banner" />
+  <img src="https://cdn.zhyllanfyllah.my.id/cdn/privite/assets/all/banner.png" width="100%" style="border-radius: 30px;" alt="Banner" />
 </p>
 
 <p align="left">
